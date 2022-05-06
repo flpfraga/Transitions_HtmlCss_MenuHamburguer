@@ -1,0 +1,1 @@
+Uso de @keyframe para fazer a animação com o background-color.

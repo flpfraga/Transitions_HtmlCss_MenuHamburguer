@@ -1,0 +1,1 @@
+Transition que mostra border e sub text quando o mouse passa pelo elemento
